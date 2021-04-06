@@ -13,7 +13,7 @@ cycler==0.10.0
 distlib==0.3.1
 Django==3.0.7
 django-bootstrap-form==3.4
-django-registration==3.1
+django-registration==3.1.2
 django-rosetta==0.9.4
 -e git+https://github.com/Pierre-Sassoulas/django-survey.git@016a4cee186849031c2cd5825321bcd3889640bf#egg=django_survey_and_report
 django-tastypie==0.14.3
