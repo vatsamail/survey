@@ -11,7 +11,7 @@ coverage==5.1
 coveralls==2.0.0
 cycler==0.10.0
 distlib==0.3.1
-Django==3.0.7
+Django==3.1.9
 django-bootstrap-form==3.4
 django-registration==3.1
 django-rosetta==0.9.4
