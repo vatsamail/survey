@@ -35,7 +35,7 @@ nodeenv==1.4.0
 numpy==1.19.0
 ordereddict==1.1
 pandas==1.0.5
-Pillow==7.1.2
+Pillow==8.2.0
 polib==1.1.0
 pre-commit==2.5.1
 pycodestyle==2.6.0
